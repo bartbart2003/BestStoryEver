@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1508962120 source:/home/bartbart2003/codeblocks/BestStoryEver/main.cpp
+	<iostream>
+	<cstdlib>
+
